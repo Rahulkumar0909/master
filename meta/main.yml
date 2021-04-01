@@ -28,11 +28,7 @@ galaxy_info:
   # https://galaxy.ansible.com/api/v1/platforms/
   #
   platforms:
-    - name: RHEL
-      versions:
-       - 8
-       - 7
-    - name: CentOS
+    - name: RedHat
       versions:
        - 8
        - 7
